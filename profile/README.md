@@ -20,8 +20,8 @@
 
 API analytics for your backend: requests, status codes, latency and consumers per endpoint. Zero dependencies, counted in memory and sent in the background.
 
-| | Install | Works with |
-| --- | --- | --- |
-| [**JavaScript / TypeScript**](https://github.com/clicktag-io/clicktag-js) | `npm i clicktag` | Hono, Cloudflare Workers, Express, Fastify, Next.js |
-| [**Python**](https://github.com/clicktag-io/clicktag-python) | `pip install clicktag` | FastAPI, Starlette, Flask, any ASGI or WSGI app |
-| [**Go**](https://github.com/clicktag-io/clicktag-go) | `go get github.com/clicktag-io/clicktag-go` | net/http, chi, gin, echo |
+| SDK | Install |
+| --- | --- |
+| [**JavaScript / TypeScript**](https://github.com/clicktag-io/clicktag-js)<br><sub>Hono, Cloudflare Workers, Express, Fastify, Next.js</sub> | `npm i clicktag` |
+| [**Python**](https://github.com/clicktag-io/clicktag-python)<br><sub>FastAPI, Starlette, Flask, any ASGI or WSGI app</sub> | `pip install clicktag` |
+| [**Go**](https://github.com/clicktag-io/clicktag-go)<br><sub>net/http, chi, gin, echo</sub> | `go get github.com/clicktag-io/clicktag-go` |
